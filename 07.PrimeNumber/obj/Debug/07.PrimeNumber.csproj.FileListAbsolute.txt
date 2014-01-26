@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\07.PrimeNumber\obj\Debug\07.PrimeNumber.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\07.PrimeNumber\obj\Debug\07.PrimeNumber.pdb

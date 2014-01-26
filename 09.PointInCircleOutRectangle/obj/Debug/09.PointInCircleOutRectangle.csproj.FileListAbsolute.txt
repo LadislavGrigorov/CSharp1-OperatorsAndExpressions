@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\bin\Debug\09.PointInCircleOutRectangle.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\obj\Debug\09.PointInCircleOutRectangle.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\bin\Debug\09.PointInCircleOutRectangle.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\bin\Debug\09.PointInCircleOutRectangle.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\obj\Debug\09.PointInCircleOutRectangle.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\09.PointInCircleOutRectangle\obj\Debug\09.PointInCircleOutRectangle.pdb

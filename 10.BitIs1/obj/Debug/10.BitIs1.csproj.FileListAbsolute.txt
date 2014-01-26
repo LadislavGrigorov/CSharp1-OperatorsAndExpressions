@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\bin\Debug\10.BitIs1.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\bin\Debug\10.BitIs1.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\bin\Debug\10.BitIs1.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\obj\Debug\10.BitIs1.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\obj\Debug\10.BitIs1.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\10.BitIs1\obj\Debug\10.BitIs1.pdb

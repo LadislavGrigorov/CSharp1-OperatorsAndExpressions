@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\bin\Debug\13.Exchange3BitsToOther3.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\bin\Debug\13.Exchange3BitsToOther3.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\bin\Debug\13.Exchange3BitsToOther3.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\obj\Debug\13.Exchange3BitsToOther3.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\obj\Debug\13.Exchange3BitsToOther3.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\13.Exchange3BitsToOther3\obj\Debug\13.Exchange3BitsToOther3.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\11.ValueOfBit\bin\Debug\11.ValueOfBit.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\11.ValueOfBit\bin\Debug\11.ValueOfBit.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\11.ValueOfBit\bin\Debug\11.ValueOfBit.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\11.ValueOfBit\obj\Debug\11.ValueOfBit.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\11.ValueOfBit\obj\Debug\11.ValueOfBit.pdb

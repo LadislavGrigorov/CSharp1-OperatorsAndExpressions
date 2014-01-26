@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\obj\Debug\05.ThirdBit.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\obj\Debug\05.ThirdBit.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\05.ThirdBit\obj\Debug\05.ThirdBit.pdb

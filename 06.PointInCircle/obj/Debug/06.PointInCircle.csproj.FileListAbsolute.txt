@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\06.PointInCircle\bin\Debug\06.PointInCircle.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\06.PointInCircle\bin\Debug\06.PointInCircle.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\06.PointInCircle\bin\Debug\06.PointInCircle.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\06.PointInCircle\obj\Debug\06.PointInCircle.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\06.PointInCircle\obj\Debug\06.PointInCircle.pdb

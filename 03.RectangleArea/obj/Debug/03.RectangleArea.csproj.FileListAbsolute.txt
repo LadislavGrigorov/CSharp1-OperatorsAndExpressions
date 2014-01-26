@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+D:\Telerik\C# Part I\03.Оператори и изрази\Operators-Expressions-and-Statements-Homework\OperatorsAndExpressions\03.RectangleArea\obj\Debug\03.RectangleArea.pdb
